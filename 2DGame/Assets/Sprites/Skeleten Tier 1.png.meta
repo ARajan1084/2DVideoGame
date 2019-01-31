@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 96d38b45d3fa14866b733f7b816781f3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skeleten Tier 1_Torso
+    21300002: Skeleten Tier 1_Head
+    21300004: Skeleten Tier 1_Right_Thigh
+    21300006: Skeleten Tier 1_Left_Thigh
+    21300008: Skeleten Tier 1_Left_Hand
+    21300010: Skeleten Tier 1_1
+    21300012: Skeleten Tier 1_Right_Knee
+    21300014: Skeleten Tier 1_Left_Knee
+    21300016: Skeleten Tier 1_Right_Forearm
+    21300018: Skeleten Tier 1_Left_Forearm
+    21300020: Skeleten Tier 1_Sword
+    21300022: Skeleten Tier 1_Left_Foot
+    21300024: Skeleten Tier 1_Right_Foot
+    21300026: Skeleten Tier 1_Right_Shoulder
+    21300028: Skeleten Tier 1_Left_Shoulder
+    21300030: Skeleten Tier 1_Kneck
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Torso
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2282
+        width: 811
+        height: 968
+      alignment: 9
+      pivot: {x: 0.41672242, y: 0.15933773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7503179d6346f39ed81e8b2a8f49c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Head
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2477
+        width: 827
+        height: 692
+      alignment: 9
+      pivot: {x: 0.5588395, y: 0.10934748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c9910f8f4147248cd4b3685e76139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Right_Thigh
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1547
+        width: 309
+        height: 611
+      alignment: 9
+      pivot: {x: 0.74496156, y: 0.84510535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5495039b28465ba03f10f331ff0b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Left_Thigh
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1590
+        width: 313
+        height: 589
+      alignment: 9
+      pivot: {x: 0.77637887, y: 0.84881604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0080e02b43a4a4aa29bb91f9bf4aab66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Left_Hand
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1801
+        width: 351
+        height: 459
+      alignment: 9
+      pivot: {x: 0.51540416, y: 0.8415969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f37faf9431ff4825b39a4348de2291f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_1
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1909
+        width: 319
+        height: 270
+      alignment: 9
+      pivot: {x: 0.22882138, y: 0.45995143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac3d4cff891f481faa09d96f3f6bf93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Right_Knee
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1060
+        width: 302
+        height: 492
+      alignment: 9
+      pivot: {x: 0.37509388, y: 0.71856713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b476da84e64f4cd7abe81982be00666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Left_Knee
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1076
+        width: 298
+        height: 492
+      alignment: 9
+      pivot: {x: 0.39114216, y: 0.6998119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf8a363d226141dba9c659b422f2862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Right_Forearm
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1206
+        width: 227
+        height: 492
+      alignment: 9
+      pivot: {x: 0.6190901, y: 0.8516521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d562688610a44b5ac831a2988c672f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Left_Forearm
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1190
+        width: 183
+        height: 503
+      alignment: 9
+      pivot: {x: 0.6772681, y: 0.8224644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a38c1a58914336a4eb3db7d6379f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Sword
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 768
+        height: 1406
+      alignment: 9
+      pivot: {x: 0.3342795, y: 0.21928525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602a98eff17849a2876eda2c8c5e9a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Left_Foot
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 709
+        width: 445
+        height: 275
+      alignment: 9
+      pivot: {x: 0.80349165, y: 0.73592705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca203f25c4e89497e83a3c03bec2adb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Right_Foot
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 687
+        width: 454
+        height: 288
+      alignment: 9
+      pivot: {x: 0.845105, y: 0.73665506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16c58cb6bd8846da885b120f4c03382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Right_Shoulder
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 141
+        width: 465
+        height: 470
+      alignment: 9
+      pivot: {x: 0.7441711, y: 0.76458067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9450eba82e4f143298824ed07334ec7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Left_Shoulder
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 152
+        width: 481
+        height: 460
+      alignment: 9
+      pivot: {x: 0.7248086, y: 0.74682516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f944c6615f47dcb4059e0f9c743f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleten Tier 1_Kneck
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1417
+        width: 151
+        height: 205
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.22273763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db976ed1e17451f9c4a970896d1b91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 91e2731a6b08744138827a2c20b6012e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
